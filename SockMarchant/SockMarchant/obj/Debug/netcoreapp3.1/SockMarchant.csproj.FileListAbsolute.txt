@@ -1,0 +1,12 @@
+G:\ProblemSolving\SockMarchant\SockMarchant\bin\Debug\netcoreapp3.1\SockMarchant.exe
+G:\ProblemSolving\SockMarchant\SockMarchant\bin\Debug\netcoreapp3.1\SockMarchant.deps.json
+G:\ProblemSolving\SockMarchant\SockMarchant\bin\Debug\netcoreapp3.1\SockMarchant.runtimeconfig.json
+G:\ProblemSolving\SockMarchant\SockMarchant\bin\Debug\netcoreapp3.1\SockMarchant.runtimeconfig.dev.json
+G:\ProblemSolving\SockMarchant\SockMarchant\bin\Debug\netcoreapp3.1\SockMarchant.dll
+G:\ProblemSolving\SockMarchant\SockMarchant\bin\Debug\netcoreapp3.1\SockMarchant.pdb
+G:\ProblemSolving\SockMarchant\SockMarchant\obj\Debug\netcoreapp3.1\SockMarchant.AssemblyInfoInputs.cache
+G:\ProblemSolving\SockMarchant\SockMarchant\obj\Debug\netcoreapp3.1\SockMarchant.AssemblyInfo.cs
+G:\ProblemSolving\SockMarchant\SockMarchant\obj\Debug\netcoreapp3.1\SockMarchant.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\SockMarchant\SockMarchant\obj\Debug\netcoreapp3.1\SockMarchant.dll
+G:\ProblemSolving\SockMarchant\SockMarchant\obj\Debug\netcoreapp3.1\SockMarchant.pdb
+G:\ProblemSolving\SockMarchant\SockMarchant\obj\Debug\netcoreapp3.1\SockMarchant.genruntimeconfig.cache
