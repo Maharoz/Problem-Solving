@@ -1,0 +1,13 @@
+G:\ProblemSolving\SolveMeFirst\SolveMeFirst\obj\Debug\netcoreapp3.1\SolveMeFirst.csprojAssemblyReference.cache
+G:\ProblemSolving\SolveMeFirst\SolveMeFirst\obj\Debug\netcoreapp3.1\SolveMeFirst.AssemblyInfoInputs.cache
+G:\ProblemSolving\SolveMeFirst\SolveMeFirst\obj\Debug\netcoreapp3.1\SolveMeFirst.AssemblyInfo.cs
+G:\ProblemSolving\SolveMeFirst\SolveMeFirst\obj\Debug\netcoreapp3.1\SolveMeFirst.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\SolveMeFirst\SolveMeFirst\bin\Debug\netcoreapp3.1\SolveMeFirst.exe
+G:\ProblemSolving\SolveMeFirst\SolveMeFirst\bin\Debug\netcoreapp3.1\SolveMeFirst.deps.json
+G:\ProblemSolving\SolveMeFirst\SolveMeFirst\bin\Debug\netcoreapp3.1\SolveMeFirst.runtimeconfig.json
+G:\ProblemSolving\SolveMeFirst\SolveMeFirst\bin\Debug\netcoreapp3.1\SolveMeFirst.runtimeconfig.dev.json
+G:\ProblemSolving\SolveMeFirst\SolveMeFirst\bin\Debug\netcoreapp3.1\SolveMeFirst.dll
+G:\ProblemSolving\SolveMeFirst\SolveMeFirst\bin\Debug\netcoreapp3.1\SolveMeFirst.pdb
+G:\ProblemSolving\SolveMeFirst\SolveMeFirst\obj\Debug\netcoreapp3.1\SolveMeFirst.dll
+G:\ProblemSolving\SolveMeFirst\SolveMeFirst\obj\Debug\netcoreapp3.1\SolveMeFirst.pdb
+G:\ProblemSolving\SolveMeFirst\SolveMeFirst\obj\Debug\netcoreapp3.1\SolveMeFirst.genruntimeconfig.cache
