@@ -1,0 +1,13 @@
+G:\ProblemSolving\FirstNonRepeatingCharacter\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+G:\ProblemSolving\FirstNonRepeatingCharacter\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+G:\ProblemSolving\FirstNonRepeatingCharacter\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+G:\ProblemSolving\FirstNonRepeatingCharacter\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\FirstNonRepeatingCharacter\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+G:\ProblemSolving\FirstNonRepeatingCharacter\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+G:\ProblemSolving\FirstNonRepeatingCharacter\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+G:\ProblemSolving\FirstNonRepeatingCharacter\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+G:\ProblemSolving\FirstNonRepeatingCharacter\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+G:\ProblemSolving\FirstNonRepeatingCharacter\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+G:\ProblemSolving\FirstNonRepeatingCharacter\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+G:\ProblemSolving\FirstNonRepeatingCharacter\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+G:\ProblemSolving\FirstNonRepeatingCharacter\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
