@@ -1,0 +1,13 @@
+G:\ProblemSolving\LightOJ1000\LightOJ1000\bin\Debug\netcoreapp3.1\LightOJ1000.exe
+G:\ProblemSolving\LightOJ1000\LightOJ1000\bin\Debug\netcoreapp3.1\LightOJ1000.deps.json
+G:\ProblemSolving\LightOJ1000\LightOJ1000\bin\Debug\netcoreapp3.1\LightOJ1000.runtimeconfig.json
+G:\ProblemSolving\LightOJ1000\LightOJ1000\bin\Debug\netcoreapp3.1\LightOJ1000.runtimeconfig.dev.json
+G:\ProblemSolving\LightOJ1000\LightOJ1000\bin\Debug\netcoreapp3.1\LightOJ1000.dll
+G:\ProblemSolving\LightOJ1000\LightOJ1000\bin\Debug\netcoreapp3.1\LightOJ1000.pdb
+G:\ProblemSolving\LightOJ1000\LightOJ1000\obj\Debug\netcoreapp3.1\LightOJ1000.csprojAssemblyReference.cache
+G:\ProblemSolving\LightOJ1000\LightOJ1000\obj\Debug\netcoreapp3.1\LightOJ1000.AssemblyInfoInputs.cache
+G:\ProblemSolving\LightOJ1000\LightOJ1000\obj\Debug\netcoreapp3.1\LightOJ1000.AssemblyInfo.cs
+G:\ProblemSolving\LightOJ1000\LightOJ1000\obj\Debug\netcoreapp3.1\LightOJ1000.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\LightOJ1000\LightOJ1000\obj\Debug\netcoreapp3.1\LightOJ1000.dll
+G:\ProblemSolving\LightOJ1000\LightOJ1000\obj\Debug\netcoreapp3.1\LightOJ1000.pdb
+G:\ProblemSolving\LightOJ1000\LightOJ1000\obj\Debug\netcoreapp3.1\LightOJ1000.genruntimeconfig.cache
