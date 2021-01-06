@@ -7,7 +7,7 @@ namespace LightOJ1000
         static void Main(string[] args)
         {
 
-            //Problem URL
+            //Problem URL https://lightoj.com/problem/greetings-from-lightoj
             int n, i = 1, x, y;
             n = Convert.ToInt32(Console.ReadLine());
 
