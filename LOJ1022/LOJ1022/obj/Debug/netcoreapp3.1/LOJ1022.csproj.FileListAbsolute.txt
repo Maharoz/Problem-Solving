@@ -1,0 +1,13 @@
+G:\ProblemSolving\LOJ1022\LOJ1022\bin\Debug\netcoreapp3.1\LOJ1022.exe
+G:\ProblemSolving\LOJ1022\LOJ1022\bin\Debug\netcoreapp3.1\LOJ1022.deps.json
+G:\ProblemSolving\LOJ1022\LOJ1022\bin\Debug\netcoreapp3.1\LOJ1022.runtimeconfig.json
+G:\ProblemSolving\LOJ1022\LOJ1022\bin\Debug\netcoreapp3.1\LOJ1022.runtimeconfig.dev.json
+G:\ProblemSolving\LOJ1022\LOJ1022\bin\Debug\netcoreapp3.1\LOJ1022.dll
+G:\ProblemSolving\LOJ1022\LOJ1022\bin\Debug\netcoreapp3.1\LOJ1022.pdb
+G:\ProblemSolving\LOJ1022\LOJ1022\obj\Debug\netcoreapp3.1\LOJ1022.csprojAssemblyReference.cache
+G:\ProblemSolving\LOJ1022\LOJ1022\obj\Debug\netcoreapp3.1\LOJ1022.AssemblyInfoInputs.cache
+G:\ProblemSolving\LOJ1022\LOJ1022\obj\Debug\netcoreapp3.1\LOJ1022.AssemblyInfo.cs
+G:\ProblemSolving\LOJ1022\LOJ1022\obj\Debug\netcoreapp3.1\LOJ1022.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\LOJ1022\LOJ1022\obj\Debug\netcoreapp3.1\LOJ1022.dll
+G:\ProblemSolving\LOJ1022\LOJ1022\obj\Debug\netcoreapp3.1\LOJ1022.pdb
+G:\ProblemSolving\LOJ1022\LOJ1022\obj\Debug\netcoreapp3.1\LOJ1022.genruntimeconfig.cache
