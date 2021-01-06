@@ -14,16 +14,11 @@ namespace LOJ1022
             {
                 double radius = Convert.ToDouble(Console.ReadLine());
                 double areaOfSquare = (radius + radius)* (radius + radius);
-                double areOfCircle = 3.1416 * radius* radius;
+                double areOfCircle = 3.1416 *( radius* radius);
                 double shadedArea = areaOfSquare - areOfCircle;
-                double result = RoundUp(shadedArea, 2);
-                Console.WriteLine("Case" + i +":"+result);
+                double result = Math.Round(shadedArea, 2);
+                Console.WriteLine("Case" + i +":"+ result);
             }
-        }
-        public static double RoundUp(double input, int places)
-        {
-            double multiplier = Math.Pow(10, Convert.ToDouble(places));
-            return Math.Ceiling(input * multiplier) / multiplier;
         }
     }
 }
