@@ -1,0 +1,13 @@
+G:\ProblemSolving\UpdateArray\UpdateArray\bin\Debug\netcoreapp3.1\UpdateArray.exe
+G:\ProblemSolving\UpdateArray\UpdateArray\bin\Debug\netcoreapp3.1\UpdateArray.deps.json
+G:\ProblemSolving\UpdateArray\UpdateArray\bin\Debug\netcoreapp3.1\UpdateArray.runtimeconfig.json
+G:\ProblemSolving\UpdateArray\UpdateArray\bin\Debug\netcoreapp3.1\UpdateArray.runtimeconfig.dev.json
+G:\ProblemSolving\UpdateArray\UpdateArray\bin\Debug\netcoreapp3.1\UpdateArray.dll
+G:\ProblemSolving\UpdateArray\UpdateArray\bin\Debug\netcoreapp3.1\UpdateArray.pdb
+G:\ProblemSolving\UpdateArray\UpdateArray\obj\Debug\netcoreapp3.1\UpdateArray.csprojAssemblyReference.cache
+G:\ProblemSolving\UpdateArray\UpdateArray\obj\Debug\netcoreapp3.1\UpdateArray.AssemblyInfoInputs.cache
+G:\ProblemSolving\UpdateArray\UpdateArray\obj\Debug\netcoreapp3.1\UpdateArray.AssemblyInfo.cs
+G:\ProblemSolving\UpdateArray\UpdateArray\obj\Debug\netcoreapp3.1\UpdateArray.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\UpdateArray\UpdateArray\obj\Debug\netcoreapp3.1\UpdateArray.dll
+G:\ProblemSolving\UpdateArray\UpdateArray\obj\Debug\netcoreapp3.1\UpdateArray.pdb
+G:\ProblemSolving\UpdateArray\UpdateArray\obj\Debug\netcoreapp3.1\UpdateArray.genruntimeconfig.cache
