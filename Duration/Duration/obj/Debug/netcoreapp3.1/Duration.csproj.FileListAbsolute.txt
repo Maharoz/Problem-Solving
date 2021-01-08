@@ -1,0 +1,13 @@
+G:\ProblemSolving\Duration\Duration\bin\Debug\netcoreapp3.1\Duration.exe
+G:\ProblemSolving\Duration\Duration\bin\Debug\netcoreapp3.1\Duration.deps.json
+G:\ProblemSolving\Duration\Duration\bin\Debug\netcoreapp3.1\Duration.runtimeconfig.json
+G:\ProblemSolving\Duration\Duration\bin\Debug\netcoreapp3.1\Duration.runtimeconfig.dev.json
+G:\ProblemSolving\Duration\Duration\bin\Debug\netcoreapp3.1\Duration.dll
+G:\ProblemSolving\Duration\Duration\bin\Debug\netcoreapp3.1\Duration.pdb
+G:\ProblemSolving\Duration\Duration\obj\Debug\netcoreapp3.1\Duration.csprojAssemblyReference.cache
+G:\ProblemSolving\Duration\Duration\obj\Debug\netcoreapp3.1\Duration.AssemblyInfoInputs.cache
+G:\ProblemSolving\Duration\Duration\obj\Debug\netcoreapp3.1\Duration.AssemblyInfo.cs
+G:\ProblemSolving\Duration\Duration\obj\Debug\netcoreapp3.1\Duration.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\Duration\Duration\obj\Debug\netcoreapp3.1\Duration.dll
+G:\ProblemSolving\Duration\Duration\obj\Debug\netcoreapp3.1\Duration.pdb
+G:\ProblemSolving\Duration\Duration\obj\Debug\netcoreapp3.1\Duration.genruntimeconfig.cache
