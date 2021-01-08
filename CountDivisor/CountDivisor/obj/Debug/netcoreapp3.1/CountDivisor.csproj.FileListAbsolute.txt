@@ -1,0 +1,13 @@
+G:\ProblemSolving\CountDivisor\CountDivisor\bin\Debug\netcoreapp3.1\CountDivisor.exe
+G:\ProblemSolving\CountDivisor\CountDivisor\bin\Debug\netcoreapp3.1\CountDivisor.deps.json
+G:\ProblemSolving\CountDivisor\CountDivisor\bin\Debug\netcoreapp3.1\CountDivisor.runtimeconfig.json
+G:\ProblemSolving\CountDivisor\CountDivisor\bin\Debug\netcoreapp3.1\CountDivisor.runtimeconfig.dev.json
+G:\ProblemSolving\CountDivisor\CountDivisor\bin\Debug\netcoreapp3.1\CountDivisor.dll
+G:\ProblemSolving\CountDivisor\CountDivisor\bin\Debug\netcoreapp3.1\CountDivisor.pdb
+G:\ProblemSolving\CountDivisor\CountDivisor\obj\Debug\netcoreapp3.1\CountDivisor.csprojAssemblyReference.cache
+G:\ProblemSolving\CountDivisor\CountDivisor\obj\Debug\netcoreapp3.1\CountDivisor.AssemblyInfoInputs.cache
+G:\ProblemSolving\CountDivisor\CountDivisor\obj\Debug\netcoreapp3.1\CountDivisor.AssemblyInfo.cs
+G:\ProblemSolving\CountDivisor\CountDivisor\obj\Debug\netcoreapp3.1\CountDivisor.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\CountDivisor\CountDivisor\obj\Debug\netcoreapp3.1\CountDivisor.dll
+G:\ProblemSolving\CountDivisor\CountDivisor\obj\Debug\netcoreapp3.1\CountDivisor.pdb
+G:\ProblemSolving\CountDivisor\CountDivisor\obj\Debug\netcoreapp3.1\CountDivisor.genruntimeconfig.cache
