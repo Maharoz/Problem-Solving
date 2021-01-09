@@ -1,0 +1,13 @@
+G:\ProblemSolving\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.exe
+G:\ProblemSolving\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.deps.json
+G:\ProblemSolving\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.runtimeconfig.json
+G:\ProblemSolving\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.runtimeconfig.dev.json
+G:\ProblemSolving\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.dll
+G:\ProblemSolving\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.pdb
+G:\ProblemSolving\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.csprojAssemblyReference.cache
+G:\ProblemSolving\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.AssemblyInfoInputs.cache
+G:\ProblemSolving\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.AssemblyInfo.cs
+G:\ProblemSolving\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.dll
+G:\ProblemSolving\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.pdb
+G:\ProblemSolving\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.genruntimeconfig.cache

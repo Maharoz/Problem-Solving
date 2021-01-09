@@ -9,28 +9,36 @@ namespace MiniMax
         static void Main(string[] args)
         {
 
-            int[] input = new int[5];
+            long[] input = new long[5];
             string[] arrayVal = Console.ReadLine().Split();
-            int[] myInts = Array.ConvertAll(arrayVal, s => int.Parse(s));
-            int smallestSum=0, bisggestSum=0;
+            long[] mylongs = Array.ConvertAll(arrayVal, s => long.Parse(s));
+            long smallestSum=0, bisggestSum=0;
 
-            for (int i = 0; i < input.Length; i++)
+            for (long i = 0; i < input.Length; i++)
             {
-                input[i] = myInts[i];
+                input[i] = mylongs[i];
             }
 
-            int max = input.Max();
-            int min = input.Min();
+            long max = input.Max();
+            long min = input.Min();
 
-            for(int j =0;j< input.Length; j++)
+            if (min == max)
             {
-                if (input[j] != max)
+                bisggestSum = min * 4;
+                smallestSum = max * 4;
+            }
+            else
+            {
+                for (long j = 0; j < input.Length; j++)
                 {
-                    bisggestSum = bisggestSum + input[j];
-                }
-                if(input[j] != min)
-                {
-                    smallestSum = smallestSum + input[j];
+                    if (input[j] != max)
+                    {
+                        bisggestSum = bisggestSum + input[j];
+                    }
+                    if (input[j] != min)
+                    {
+                        smallestSum = smallestSum + input[j];
+                    }
                 }
             }
 
