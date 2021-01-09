@@ -1,0 +1,12 @@
+G:\ProblemSolving\BillDivision\BillDivision\bin\Debug\netcoreapp3.1\BillDivision.exe
+G:\ProblemSolving\BillDivision\BillDivision\bin\Debug\netcoreapp3.1\BillDivision.deps.json
+G:\ProblemSolving\BillDivision\BillDivision\bin\Debug\netcoreapp3.1\BillDivision.runtimeconfig.json
+G:\ProblemSolving\BillDivision\BillDivision\bin\Debug\netcoreapp3.1\BillDivision.runtimeconfig.dev.json
+G:\ProblemSolving\BillDivision\BillDivision\bin\Debug\netcoreapp3.1\BillDivision.dll
+G:\ProblemSolving\BillDivision\BillDivision\bin\Debug\netcoreapp3.1\BillDivision.pdb
+G:\ProblemSolving\BillDivision\BillDivision\obj\Debug\netcoreapp3.1\BillDivision.AssemblyInfoInputs.cache
+G:\ProblemSolving\BillDivision\BillDivision\obj\Debug\netcoreapp3.1\BillDivision.AssemblyInfo.cs
+G:\ProblemSolving\BillDivision\BillDivision\obj\Debug\netcoreapp3.1\BillDivision.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\BillDivision\BillDivision\obj\Debug\netcoreapp3.1\BillDivision.dll
+G:\ProblemSolving\BillDivision\BillDivision\obj\Debug\netcoreapp3.1\BillDivision.pdb
+G:\ProblemSolving\BillDivision\BillDivision\obj\Debug\netcoreapp3.1\BillDivision.genruntimeconfig.cache
