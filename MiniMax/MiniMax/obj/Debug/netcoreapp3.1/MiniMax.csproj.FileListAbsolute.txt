@@ -1,0 +1,13 @@
+G:\ProblemSolving\MiniMax\MiniMax\bin\Debug\netcoreapp3.1\MiniMax.exe
+G:\ProblemSolving\MiniMax\MiniMax\bin\Debug\netcoreapp3.1\MiniMax.deps.json
+G:\ProblemSolving\MiniMax\MiniMax\bin\Debug\netcoreapp3.1\MiniMax.runtimeconfig.json
+G:\ProblemSolving\MiniMax\MiniMax\bin\Debug\netcoreapp3.1\MiniMax.runtimeconfig.dev.json
+G:\ProblemSolving\MiniMax\MiniMax\bin\Debug\netcoreapp3.1\MiniMax.dll
+G:\ProblemSolving\MiniMax\MiniMax\bin\Debug\netcoreapp3.1\MiniMax.pdb
+G:\ProblemSolving\MiniMax\MiniMax\obj\Debug\netcoreapp3.1\MiniMax.csprojAssemblyReference.cache
+G:\ProblemSolving\MiniMax\MiniMax\obj\Debug\netcoreapp3.1\MiniMax.AssemblyInfoInputs.cache
+G:\ProblemSolving\MiniMax\MiniMax\obj\Debug\netcoreapp3.1\MiniMax.AssemblyInfo.cs
+G:\ProblemSolving\MiniMax\MiniMax\obj\Debug\netcoreapp3.1\MiniMax.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\MiniMax\MiniMax\obj\Debug\netcoreapp3.1\MiniMax.dll
+G:\ProblemSolving\MiniMax\MiniMax\obj\Debug\netcoreapp3.1\MiniMax.pdb
+G:\ProblemSolving\MiniMax\MiniMax\obj\Debug\netcoreapp3.1\MiniMax.genruntimeconfig.cache
