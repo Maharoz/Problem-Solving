@@ -1,0 +1,6 @@
+G:\ProblemSolving\DiagonalDifference\DiagonalDifference\bin\Debug\DiagonalDifference.exe.config
+G:\ProblemSolving\DiagonalDifference\DiagonalDifference\bin\Debug\DiagonalDifference.exe
+G:\ProblemSolving\DiagonalDifference\DiagonalDifference\bin\Debug\DiagonalDifference.pdb
+G:\ProblemSolving\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.exe
+G:\ProblemSolving\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.pdb
