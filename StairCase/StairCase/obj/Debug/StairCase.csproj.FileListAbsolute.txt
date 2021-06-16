@@ -1,0 +1,6 @@
+G:\ProblemSolving\StairCase\StairCase\obj\Debug\StairCase.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\StairCase\StairCase\bin\Debug\StairCase.exe.config
+G:\ProblemSolving\StairCase\StairCase\bin\Debug\StairCase.exe
+G:\ProblemSolving\StairCase\StairCase\bin\Debug\StairCase.pdb
+G:\ProblemSolving\StairCase\StairCase\obj\Debug\StairCase.exe
+G:\ProblemSolving\StairCase\StairCase\obj\Debug\StairCase.pdb
