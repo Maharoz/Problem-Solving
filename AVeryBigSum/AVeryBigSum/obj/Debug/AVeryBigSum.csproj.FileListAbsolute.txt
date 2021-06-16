@@ -1,0 +1,6 @@
+G:\ProblemSolving\AVeryBigSum\AVeryBigSum\bin\Debug\AVeryBigSum.exe.config
+G:\ProblemSolving\AVeryBigSum\AVeryBigSum\bin\Debug\AVeryBigSum.exe
+G:\ProblemSolving\AVeryBigSum\AVeryBigSum\bin\Debug\AVeryBigSum.pdb
+G:\ProblemSolving\AVeryBigSum\AVeryBigSum\obj\Debug\AVeryBigSum.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\AVeryBigSum\AVeryBigSum\obj\Debug\AVeryBigSum.exe
+G:\ProblemSolving\AVeryBigSum\AVeryBigSum\obj\Debug\AVeryBigSum.pdb
