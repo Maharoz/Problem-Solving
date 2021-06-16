@@ -1,0 +1,6 @@
+G:\ProblemSolving\TimeConversion\TimeConversion\bin\Debug\TimeConversion.exe.config
+G:\ProblemSolving\TimeConversion\TimeConversion\bin\Debug\TimeConversion.exe
+G:\ProblemSolving\TimeConversion\TimeConversion\bin\Debug\TimeConversion.pdb
+G:\ProblemSolving\TimeConversion\TimeConversion\obj\Debug\TimeConversion.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\TimeConversion\TimeConversion\obj\Debug\TimeConversion.exe
+G:\ProblemSolving\TimeConversion\TimeConversion\obj\Debug\TimeConversion.pdb
