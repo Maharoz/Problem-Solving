@@ -1,0 +1,7 @@
+G:\ProblemSolving\SimpleArraySum\SimpleArraySum\bin\Debug\SimpleArraySum.exe.config
+G:\ProblemSolving\SimpleArraySum\SimpleArraySum\bin\Debug\SimpleArraySum.exe
+G:\ProblemSolving\SimpleArraySum\SimpleArraySum\bin\Debug\SimpleArraySum.pdb
+G:\ProblemSolving\SimpleArraySum\SimpleArraySum\obj\Debug\SimpleArraySum.csprojAssemblyReference.cache
+G:\ProblemSolving\SimpleArraySum\SimpleArraySum\obj\Debug\SimpleArraySum.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\SimpleArraySum\SimpleArraySum\obj\Debug\SimpleArraySum.exe
+G:\ProblemSolving\SimpleArraySum\SimpleArraySum\obj\Debug\SimpleArraySum.pdb
