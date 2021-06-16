@@ -1,0 +1,6 @@
+G:\ProblemSolving\CompareTheTripltes\CompareTheTripltes\bin\Debug\CompareTheTripltes.exe.config
+G:\ProblemSolving\CompareTheTripltes\CompareTheTripltes\bin\Debug\CompareTheTripltes.exe
+G:\ProblemSolving\CompareTheTripltes\CompareTheTripltes\bin\Debug\CompareTheTripltes.pdb
+G:\ProblemSolving\CompareTheTripltes\CompareTheTripltes\obj\Debug\CompareTheTripltes.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\CompareTheTripltes\CompareTheTripltes\obj\Debug\CompareTheTripltes.exe
+G:\ProblemSolving\CompareTheTripltes\CompareTheTripltes\obj\Debug\CompareTheTripltes.pdb
