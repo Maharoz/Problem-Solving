@@ -1,0 +1,7 @@
+G:\ProblemSolving\PrefixMapSum\PrefixMapSum\bin\Debug\PrefixMapSum.exe.config
+G:\ProblemSolving\PrefixMapSum\PrefixMapSum\bin\Debug\PrefixMapSum.exe
+G:\ProblemSolving\PrefixMapSum\PrefixMapSum\bin\Debug\PrefixMapSum.pdb
+G:\ProblemSolving\PrefixMapSum\PrefixMapSum\obj\Debug\PrefixMapSum.csproj.AssemblyReference.cache
+G:\ProblemSolving\PrefixMapSum\PrefixMapSum\obj\Debug\PrefixMapSum.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\PrefixMapSum\PrefixMapSum\obj\Debug\PrefixMapSum.exe
+G:\ProblemSolving\PrefixMapSum\PrefixMapSum\obj\Debug\PrefixMapSum.pdb
