@@ -1,0 +1,7 @@
+G:\ProblemSolving\ClimbingStairs\ClimbingStairs\bin\Debug\ClimbingStairs.exe.config
+G:\ProblemSolving\ClimbingStairs\ClimbingStairs\bin\Debug\ClimbingStairs.exe
+G:\ProblemSolving\ClimbingStairs\ClimbingStairs\bin\Debug\ClimbingStairs.pdb
+G:\ProblemSolving\ClimbingStairs\ClimbingStairs\obj\Debug\ClimbingStairs.csprojAssemblyReference.cache
+G:\ProblemSolving\ClimbingStairs\ClimbingStairs\obj\Debug\ClimbingStairs.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\ClimbingStairs\ClimbingStairs\obj\Debug\ClimbingStairs.exe
+G:\ProblemSolving\ClimbingStairs\ClimbingStairs\obj\Debug\ClimbingStairs.pdb
