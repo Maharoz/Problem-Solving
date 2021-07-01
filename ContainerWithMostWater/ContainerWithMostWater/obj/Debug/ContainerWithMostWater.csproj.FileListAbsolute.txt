@@ -1,0 +1,7 @@
+G:\ProblemSolving\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\ContainerWithMostWater.exe.config
+G:\ProblemSolving\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\ContainerWithMostWater.exe
+G:\ProblemSolving\ContainerWithMostWater\ContainerWithMostWater\bin\Debug\ContainerWithMostWater.pdb
+G:\ProblemSolving\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\ContainerWithMostWater.csproj.AssemblyReference.cache
+G:\ProblemSolving\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\ContainerWithMostWater.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\ContainerWithMostWater.exe
+G:\ProblemSolving\ContainerWithMostWater\ContainerWithMostWater\obj\Debug\ContainerWithMostWater.pdb
