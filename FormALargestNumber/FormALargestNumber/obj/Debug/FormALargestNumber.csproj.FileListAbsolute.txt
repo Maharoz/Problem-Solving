@@ -1,0 +1,7 @@
+G:\ProblemSolving\FormALargestNumber\FormALargestNumber\bin\Debug\FormALargestNumber.exe.config
+G:\ProblemSolving\FormALargestNumber\FormALargestNumber\bin\Debug\FormALargestNumber.exe
+G:\ProblemSolving\FormALargestNumber\FormALargestNumber\bin\Debug\FormALargestNumber.pdb
+G:\ProblemSolving\FormALargestNumber\FormALargestNumber\obj\Debug\FormALargestNumber.csproj.AssemblyReference.cache
+G:\ProblemSolving\FormALargestNumber\FormALargestNumber\obj\Debug\FormALargestNumber.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\FormALargestNumber\FormALargestNumber\obj\Debug\FormALargestNumber.exe
+G:\ProblemSolving\FormALargestNumber\FormALargestNumber\obj\Debug\FormALargestNumber.pdb
