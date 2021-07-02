@@ -1,0 +1,7 @@
+G:\ProblemSolving\MultiplyInteger\MultiplyInteger\bin\Debug\MultiplyInteger.exe.config
+G:\ProblemSolving\MultiplyInteger\MultiplyInteger\bin\Debug\MultiplyInteger.exe
+G:\ProblemSolving\MultiplyInteger\MultiplyInteger\bin\Debug\MultiplyInteger.pdb
+G:\ProblemSolving\MultiplyInteger\MultiplyInteger\obj\Debug\MultiplyInteger.csproj.AssemblyReference.cache
+G:\ProblemSolving\MultiplyInteger\MultiplyInteger\obj\Debug\MultiplyInteger.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\MultiplyInteger\MultiplyInteger\obj\Debug\MultiplyInteger.exe
+G:\ProblemSolving\MultiplyInteger\MultiplyInteger\obj\Debug\MultiplyInteger.pdb
