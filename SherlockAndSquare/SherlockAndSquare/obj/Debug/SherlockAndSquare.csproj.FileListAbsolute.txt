@@ -1,0 +1,7 @@
+G:\ProblemSolving\SherlockAndSquare\SherlockAndSquare\bin\Debug\SherlockAndSquare.exe.config
+G:\ProblemSolving\SherlockAndSquare\SherlockAndSquare\bin\Debug\SherlockAndSquare.exe
+G:\ProblemSolving\SherlockAndSquare\SherlockAndSquare\bin\Debug\SherlockAndSquare.pdb
+G:\ProblemSolving\SherlockAndSquare\SherlockAndSquare\obj\Debug\SherlockAndSquare.csproj.AssemblyReference.cache
+G:\ProblemSolving\SherlockAndSquare\SherlockAndSquare\obj\Debug\SherlockAndSquare.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\SherlockAndSquare\SherlockAndSquare\obj\Debug\SherlockAndSquare.exe
+G:\ProblemSolving\SherlockAndSquare\SherlockAndSquare\obj\Debug\SherlockAndSquare.pdb
