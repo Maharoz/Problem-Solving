@@ -13,35 +13,57 @@ namespace SherlockAndSquare
         static void Main(string[] args)
         {
 
-            int n = Convert.ToInt32(Console.ReadLine());
-            string[] c = Console.ReadLine().Split(' ');
-            int[] a = new int[c.Length];
+            long n = Convert.ToInt64(Console.ReadLine());
+            long[,] a = new long[n, 2];
+            List<long> output = new List<long>();
 
-            for (int i = 0; i < c.Length; i++)
+            for (long i = 0; i < n; i++)
             {
-                a[i] = Convert.ToInt32(c[i]);
-            }
+                string[] x = Console.ReadLine().Split(' ');
 
-            Console.WriteLine(checkSquare(a));
-        }
-
-        static int checkSquare(int[] a)
-        {
-            int startingNumber = a[0];
-            int endingNumber = a[1];
-            int count = 0;
-
-            for(int i=startingNumber;i<= endingNumber; i++)
-            {
-                double sq = Math.Sqrt(i);
-                int x = Convert.ToInt32(Math.Truncate(sq));
-                if (x * x == i)
+                for (long j = 0; j <= 1; j++)
                 {
-                    count = count + 1;
+                    a[i, j] = Convert.ToInt64(x[j]);
                 }
             }
 
-            return count;
+
+            output = checkSquare(a);
+            foreach (long i in output)
+            {
+                Console.WriteLine(i);
+            }
+        }
+
+        static List<long> checkSquare(long[,] a)
+        {
+
+
+            List<long> output = new List<long>();
+            long startingNumber = 0;
+            long endingNumber = 0;
+            long count = 0;
+            long y = a.GetLength(0);
+
+            for (long i = 0; i < a.GetLength(0); i++)
+            {
+                startingNumber = a[i, 0];
+                endingNumber = a[i, 1];
+
+                for (long j = startingNumber; j <= endingNumber; j++)
+                {
+                    double sq = Math.Sqrt(j);
+                    long x = Convert.ToInt64(Math.Truncate(sq));
+                    if (x * x == j)
+                    {
+                        count = count + 1;
+                    }
+                }
+                output.Add(count);
+                count = 0;
+            }
+
+            return output;
         }
     }
 }
