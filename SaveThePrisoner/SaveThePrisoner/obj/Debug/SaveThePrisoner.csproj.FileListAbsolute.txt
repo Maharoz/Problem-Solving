@@ -1,0 +1,7 @@
+G:\ProblemSolving\SaveThePrisoner\SaveThePrisoner\bin\Debug\SaveThePrisoner.exe.config
+G:\ProblemSolving\SaveThePrisoner\SaveThePrisoner\bin\Debug\SaveThePrisoner.exe
+G:\ProblemSolving\SaveThePrisoner\SaveThePrisoner\bin\Debug\SaveThePrisoner.pdb
+G:\ProblemSolving\SaveThePrisoner\SaveThePrisoner\obj\Debug\SaveThePrisoner.csproj.AssemblyReference.cache
+G:\ProblemSolving\SaveThePrisoner\SaveThePrisoner\obj\Debug\SaveThePrisoner.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\SaveThePrisoner\SaveThePrisoner\obj\Debug\SaveThePrisoner.exe
+G:\ProblemSolving\SaveThePrisoner\SaveThePrisoner\obj\Debug\SaveThePrisoner.pdb
