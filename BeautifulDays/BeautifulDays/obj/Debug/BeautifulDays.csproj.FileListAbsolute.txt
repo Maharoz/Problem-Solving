@@ -1,0 +1,7 @@
+G:\ProblemSolving\BeautifulDays\BeautifulDays\bin\Debug\BeautifulDays.exe.config
+G:\ProblemSolving\BeautifulDays\BeautifulDays\bin\Debug\BeautifulDays.exe
+G:\ProblemSolving\BeautifulDays\BeautifulDays\bin\Debug\BeautifulDays.pdb
+G:\ProblemSolving\BeautifulDays\BeautifulDays\obj\Debug\BeautifulDays.csproj.AssemblyReference.cache
+G:\ProblemSolving\BeautifulDays\BeautifulDays\obj\Debug\BeautifulDays.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\BeautifulDays\BeautifulDays\obj\Debug\BeautifulDays.exe
+G:\ProblemSolving\BeautifulDays\BeautifulDays\obj\Debug\BeautifulDays.pdb
