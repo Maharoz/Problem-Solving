@@ -1,0 +1,16 @@
+G:\ProblemSolving\DPS001atm\DPS001atm\bin\Debug\net5.0\DPS001atm.exe
+G:\ProblemSolving\DPS001atm\DPS001atm\bin\Debug\net5.0\DPS001atm.deps.json
+G:\ProblemSolving\DPS001atm\DPS001atm\bin\Debug\net5.0\DPS001atm.runtimeconfig.json
+G:\ProblemSolving\DPS001atm\DPS001atm\bin\Debug\net5.0\DPS001atm.runtimeconfig.dev.json
+G:\ProblemSolving\DPS001atm\DPS001atm\bin\Debug\net5.0\DPS001atm.dll
+G:\ProblemSolving\DPS001atm\DPS001atm\bin\Debug\net5.0\ref\DPS001atm.dll
+G:\ProblemSolving\DPS001atm\DPS001atm\bin\Debug\net5.0\DPS001atm.pdb
+G:\ProblemSolving\DPS001atm\DPS001atm\obj\Debug\net5.0\DPS001atm.csproj.AssemblyReference.cache
+G:\ProblemSolving\DPS001atm\DPS001atm\obj\Debug\net5.0\DPS001atm.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProblemSolving\DPS001atm\DPS001atm\obj\Debug\net5.0\DPS001atm.AssemblyInfoInputs.cache
+G:\ProblemSolving\DPS001atm\DPS001atm\obj\Debug\net5.0\DPS001atm.AssemblyInfo.cs
+G:\ProblemSolving\DPS001atm\DPS001atm\obj\Debug\net5.0\DPS001atm.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\DPS001atm\DPS001atm\obj\Debug\net5.0\DPS001atm.dll
+G:\ProblemSolving\DPS001atm\DPS001atm\obj\Debug\net5.0\ref\DPS001atm.dll
+G:\ProblemSolving\DPS001atm\DPS001atm\obj\Debug\net5.0\DPS001atm.pdb
+G:\ProblemSolving\DPS001atm\DPS001atm\obj\Debug\net5.0\DPS001atm.genruntimeconfig.cache
