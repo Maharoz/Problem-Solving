@@ -1,0 +1,16 @@
+G:\ProblemSolving\DPS002AnagramToInteger\DPS002AnagramToInteger\bin\Debug\net5.0\DPS002AnagramToInteger.exe
+G:\ProblemSolving\DPS002AnagramToInteger\DPS002AnagramToInteger\bin\Debug\net5.0\DPS002AnagramToInteger.deps.json
+G:\ProblemSolving\DPS002AnagramToInteger\DPS002AnagramToInteger\bin\Debug\net5.0\DPS002AnagramToInteger.runtimeconfig.json
+G:\ProblemSolving\DPS002AnagramToInteger\DPS002AnagramToInteger\bin\Debug\net5.0\DPS002AnagramToInteger.runtimeconfig.dev.json
+G:\ProblemSolving\DPS002AnagramToInteger\DPS002AnagramToInteger\bin\Debug\net5.0\DPS002AnagramToInteger.dll
+G:\ProblemSolving\DPS002AnagramToInteger\DPS002AnagramToInteger\bin\Debug\net5.0\ref\DPS002AnagramToInteger.dll
+G:\ProblemSolving\DPS002AnagramToInteger\DPS002AnagramToInteger\bin\Debug\net5.0\DPS002AnagramToInteger.pdb
+G:\ProblemSolving\DPS002AnagramToInteger\DPS002AnagramToInteger\obj\Debug\net5.0\DPS002AnagramToInteger.csproj.AssemblyReference.cache
+G:\ProblemSolving\DPS002AnagramToInteger\DPS002AnagramToInteger\obj\Debug\net5.0\DPS002AnagramToInteger.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProblemSolving\DPS002AnagramToInteger\DPS002AnagramToInteger\obj\Debug\net5.0\DPS002AnagramToInteger.AssemblyInfoInputs.cache
+G:\ProblemSolving\DPS002AnagramToInteger\DPS002AnagramToInteger\obj\Debug\net5.0\DPS002AnagramToInteger.AssemblyInfo.cs
+G:\ProblemSolving\DPS002AnagramToInteger\DPS002AnagramToInteger\obj\Debug\net5.0\DPS002AnagramToInteger.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\DPS002AnagramToInteger\DPS002AnagramToInteger\obj\Debug\net5.0\DPS002AnagramToInteger.dll
+G:\ProblemSolving\DPS002AnagramToInteger\DPS002AnagramToInteger\obj\Debug\net5.0\ref\DPS002AnagramToInteger.dll
+G:\ProblemSolving\DPS002AnagramToInteger\DPS002AnagramToInteger\obj\Debug\net5.0\DPS002AnagramToInteger.pdb
+G:\ProblemSolving\DPS002AnagramToInteger\DPS002AnagramToInteger\obj\Debug\net5.0\DPS002AnagramToInteger.genruntimeconfig.cache
