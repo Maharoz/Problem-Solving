@@ -1,0 +1,15 @@
+G:\ProblemSolving\MergeTwoSortedList\MergeTwoSortedList\bin\Debug\net6.0\MergeTwoSortedList.exe
+G:\ProblemSolving\MergeTwoSortedList\MergeTwoSortedList\bin\Debug\net6.0\MergeTwoSortedList.deps.json
+G:\ProblemSolving\MergeTwoSortedList\MergeTwoSortedList\bin\Debug\net6.0\MergeTwoSortedList.runtimeconfig.json
+G:\ProblemSolving\MergeTwoSortedList\MergeTwoSortedList\bin\Debug\net6.0\MergeTwoSortedList.dll
+G:\ProblemSolving\MergeTwoSortedList\MergeTwoSortedList\bin\Debug\net6.0\ref\MergeTwoSortedList.dll
+G:\ProblemSolving\MergeTwoSortedList\MergeTwoSortedList\bin\Debug\net6.0\MergeTwoSortedList.pdb
+G:\ProblemSolving\MergeTwoSortedList\MergeTwoSortedList\obj\Debug\net6.0\MergeTwoSortedList.csproj.AssemblyReference.cache
+G:\ProblemSolving\MergeTwoSortedList\MergeTwoSortedList\obj\Debug\net6.0\MergeTwoSortedList.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProblemSolving\MergeTwoSortedList\MergeTwoSortedList\obj\Debug\net6.0\MergeTwoSortedList.AssemblyInfoInputs.cache
+G:\ProblemSolving\MergeTwoSortedList\MergeTwoSortedList\obj\Debug\net6.0\MergeTwoSortedList.AssemblyInfo.cs
+G:\ProblemSolving\MergeTwoSortedList\MergeTwoSortedList\obj\Debug\net6.0\MergeTwoSortedList.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\MergeTwoSortedList\MergeTwoSortedList\obj\Debug\net6.0\MergeTwoSortedList.dll
+G:\ProblemSolving\MergeTwoSortedList\MergeTwoSortedList\obj\Debug\net6.0\ref\MergeTwoSortedList.dll
+G:\ProblemSolving\MergeTwoSortedList\MergeTwoSortedList\obj\Debug\net6.0\MergeTwoSortedList.pdb
+G:\ProblemSolving\MergeTwoSortedList\MergeTwoSortedList\obj\Debug\net6.0\MergeTwoSortedList.genruntimeconfig.cache
