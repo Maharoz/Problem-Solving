@@ -1,0 +1,15 @@
+G:\ProblemSolving\SortStack\SortStack\bin\Debug\net6.0\SortStack.exe
+G:\ProblemSolving\SortStack\SortStack\bin\Debug\net6.0\SortStack.deps.json
+G:\ProblemSolving\SortStack\SortStack\bin\Debug\net6.0\SortStack.runtimeconfig.json
+G:\ProblemSolving\SortStack\SortStack\bin\Debug\net6.0\SortStack.dll
+G:\ProblemSolving\SortStack\SortStack\bin\Debug\net6.0\SortStack.pdb
+G:\ProblemSolving\SortStack\SortStack\obj\Debug\net6.0\SortStack.csproj.AssemblyReference.cache
+G:\ProblemSolving\SortStack\SortStack\obj\Debug\net6.0\SortStack.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProblemSolving\SortStack\SortStack\obj\Debug\net6.0\SortStack.AssemblyInfoInputs.cache
+G:\ProblemSolving\SortStack\SortStack\obj\Debug\net6.0\SortStack.AssemblyInfo.cs
+G:\ProblemSolving\SortStack\SortStack\obj\Debug\net6.0\SortStack.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\SortStack\SortStack\obj\Debug\net6.0\SortStack.dll
+G:\ProblemSolving\SortStack\SortStack\obj\Debug\net6.0\refint\SortStack.dll
+G:\ProblemSolving\SortStack\SortStack\obj\Debug\net6.0\SortStack.pdb
+G:\ProblemSolving\SortStack\SortStack\obj\Debug\net6.0\SortStack.genruntimeconfig.cache
+G:\ProblemSolving\SortStack\SortStack\obj\Debug\net6.0\ref\SortStack.dll
