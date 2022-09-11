@@ -1,0 +1,16 @@
+G:\ProblemSolving\ImplementStackUsingArray\ImplementStackUsingArray\bin\Debug\net5.0\ImplementStackUsingArray.exe
+G:\ProblemSolving\ImplementStackUsingArray\ImplementStackUsingArray\bin\Debug\net5.0\ImplementStackUsingArray.deps.json
+G:\ProblemSolving\ImplementStackUsingArray\ImplementStackUsingArray\bin\Debug\net5.0\ImplementStackUsingArray.runtimeconfig.json
+G:\ProblemSolving\ImplementStackUsingArray\ImplementStackUsingArray\bin\Debug\net5.0\ImplementStackUsingArray.runtimeconfig.dev.json
+G:\ProblemSolving\ImplementStackUsingArray\ImplementStackUsingArray\bin\Debug\net5.0\ImplementStackUsingArray.dll
+G:\ProblemSolving\ImplementStackUsingArray\ImplementStackUsingArray\bin\Debug\net5.0\ref\ImplementStackUsingArray.dll
+G:\ProblemSolving\ImplementStackUsingArray\ImplementStackUsingArray\bin\Debug\net5.0\ImplementStackUsingArray.pdb
+G:\ProblemSolving\ImplementStackUsingArray\ImplementStackUsingArray\obj\Debug\net5.0\ImplementStackUsingArray.csproj.AssemblyReference.cache
+G:\ProblemSolving\ImplementStackUsingArray\ImplementStackUsingArray\obj\Debug\net5.0\ImplementStackUsingArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProblemSolving\ImplementStackUsingArray\ImplementStackUsingArray\obj\Debug\net5.0\ImplementStackUsingArray.AssemblyInfoInputs.cache
+G:\ProblemSolving\ImplementStackUsingArray\ImplementStackUsingArray\obj\Debug\net5.0\ImplementStackUsingArray.AssemblyInfo.cs
+G:\ProblemSolving\ImplementStackUsingArray\ImplementStackUsingArray\obj\Debug\net5.0\ImplementStackUsingArray.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\ImplementStackUsingArray\ImplementStackUsingArray\obj\Debug\net5.0\ImplementStackUsingArray.dll
+G:\ProblemSolving\ImplementStackUsingArray\ImplementStackUsingArray\obj\Debug\net5.0\ref\ImplementStackUsingArray.dll
+G:\ProblemSolving\ImplementStackUsingArray\ImplementStackUsingArray\obj\Debug\net5.0\ImplementStackUsingArray.pdb
+G:\ProblemSolving\ImplementStackUsingArray\ImplementStackUsingArray\obj\Debug\net5.0\ImplementStackUsingArray.genruntimeconfig.cache

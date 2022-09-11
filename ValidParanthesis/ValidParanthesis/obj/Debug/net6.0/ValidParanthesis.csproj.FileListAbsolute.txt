@@ -1,0 +1,15 @@
+G:\ProblemSolving\ValidParanthesis\ValidParanthesis\bin\Debug\net6.0\ValidParanthesis.exe
+G:\ProblemSolving\ValidParanthesis\ValidParanthesis\bin\Debug\net6.0\ValidParanthesis.deps.json
+G:\ProblemSolving\ValidParanthesis\ValidParanthesis\bin\Debug\net6.0\ValidParanthesis.runtimeconfig.json
+G:\ProblemSolving\ValidParanthesis\ValidParanthesis\bin\Debug\net6.0\ValidParanthesis.dll
+G:\ProblemSolving\ValidParanthesis\ValidParanthesis\bin\Debug\net6.0\ValidParanthesis.pdb
+G:\ProblemSolving\ValidParanthesis\ValidParanthesis\obj\Debug\net6.0\ValidParanthesis.csproj.AssemblyReference.cache
+G:\ProblemSolving\ValidParanthesis\ValidParanthesis\obj\Debug\net6.0\ValidParanthesis.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProblemSolving\ValidParanthesis\ValidParanthesis\obj\Debug\net6.0\ValidParanthesis.AssemblyInfoInputs.cache
+G:\ProblemSolving\ValidParanthesis\ValidParanthesis\obj\Debug\net6.0\ValidParanthesis.AssemblyInfo.cs
+G:\ProblemSolving\ValidParanthesis\ValidParanthesis\obj\Debug\net6.0\ValidParanthesis.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\ValidParanthesis\ValidParanthesis\obj\Debug\net6.0\ValidParanthesis.dll
+G:\ProblemSolving\ValidParanthesis\ValidParanthesis\obj\Debug\net6.0\refint\ValidParanthesis.dll
+G:\ProblemSolving\ValidParanthesis\ValidParanthesis\obj\Debug\net6.0\ValidParanthesis.pdb
+G:\ProblemSolving\ValidParanthesis\ValidParanthesis\obj\Debug\net6.0\ValidParanthesis.genruntimeconfig.cache
+G:\ProblemSolving\ValidParanthesis\ValidParanthesis\obj\Debug\net6.0\ref\ValidParanthesis.dll
