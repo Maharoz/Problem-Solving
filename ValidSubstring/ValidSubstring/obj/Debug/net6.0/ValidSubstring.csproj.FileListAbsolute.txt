@@ -1,0 +1,15 @@
+G:\ProblemSolving\ValidSubstring\ValidSubstring\bin\Debug\net6.0\ValidSubstring.exe
+G:\ProblemSolving\ValidSubstring\ValidSubstring\bin\Debug\net6.0\ValidSubstring.deps.json
+G:\ProblemSolving\ValidSubstring\ValidSubstring\bin\Debug\net6.0\ValidSubstring.runtimeconfig.json
+G:\ProblemSolving\ValidSubstring\ValidSubstring\bin\Debug\net6.0\ValidSubstring.dll
+G:\ProblemSolving\ValidSubstring\ValidSubstring\bin\Debug\net6.0\ValidSubstring.pdb
+G:\ProblemSolving\ValidSubstring\ValidSubstring\obj\Debug\net6.0\ValidSubstring.csproj.AssemblyReference.cache
+G:\ProblemSolving\ValidSubstring\ValidSubstring\obj\Debug\net6.0\ValidSubstring.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProblemSolving\ValidSubstring\ValidSubstring\obj\Debug\net6.0\ValidSubstring.AssemblyInfoInputs.cache
+G:\ProblemSolving\ValidSubstring\ValidSubstring\obj\Debug\net6.0\ValidSubstring.AssemblyInfo.cs
+G:\ProblemSolving\ValidSubstring\ValidSubstring\obj\Debug\net6.0\ValidSubstring.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\ValidSubstring\ValidSubstring\obj\Debug\net6.0\ValidSubstring.dll
+G:\ProblemSolving\ValidSubstring\ValidSubstring\obj\Debug\net6.0\refint\ValidSubstring.dll
+G:\ProblemSolving\ValidSubstring\ValidSubstring\obj\Debug\net6.0\ValidSubstring.pdb
+G:\ProblemSolving\ValidSubstring\ValidSubstring\obj\Debug\net6.0\ValidSubstring.genruntimeconfig.cache
+G:\ProblemSolving\ValidSubstring\ValidSubstring\obj\Debug\net6.0\ref\ValidSubstring.dll
