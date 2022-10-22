@@ -9,7 +9,7 @@ namespace LeadersInAnArray
         //https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?page=1&difficulty[]=0&category[]=Arrays&sortBy=submissions
         static void Main(string[] args)
         {
-            int n = 5;
+            int n = 6;
             int[] input = { 16, 17, 4, 3, 5, 2 };
             int[] output = new int[input.Length];
             int x = 0;
@@ -29,14 +29,18 @@ namespace LeadersInAnArray
                     }
                 }
             }
-            output[x] = input[input[input.Length - 1]];
+            output[x] = input[input.Length - 1];
 
-            for(int i = 0; i < output.Length; i++)
+            int[] outputNew = new int[x];
+            outputNew = output;
+
+            for (int i = 0; i < output.Length; i++)
             {
-                if (output[i] != 0)
-                {
-                    Console.WriteLine(output[i]);
-                }
+               if (output[i] != 0)
+              {
+                    outputNew[i] = output[i];
+                    Console.WriteLine(outputNew[i]);
+               }
                 
             }
         }
