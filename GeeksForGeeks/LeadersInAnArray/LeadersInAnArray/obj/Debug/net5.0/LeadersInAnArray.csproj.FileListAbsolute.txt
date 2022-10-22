@@ -1,0 +1,16 @@
+G:\ProblemSolving\GeeksForGeeks\LeadersInAnArray\LeadersInAnArray\bin\Debug\net5.0\LeadersInAnArray.exe
+G:\ProblemSolving\GeeksForGeeks\LeadersInAnArray\LeadersInAnArray\bin\Debug\net5.0\LeadersInAnArray.deps.json
+G:\ProblemSolving\GeeksForGeeks\LeadersInAnArray\LeadersInAnArray\bin\Debug\net5.0\LeadersInAnArray.runtimeconfig.json
+G:\ProblemSolving\GeeksForGeeks\LeadersInAnArray\LeadersInAnArray\bin\Debug\net5.0\LeadersInAnArray.runtimeconfig.dev.json
+G:\ProblemSolving\GeeksForGeeks\LeadersInAnArray\LeadersInAnArray\bin\Debug\net5.0\LeadersInAnArray.dll
+G:\ProblemSolving\GeeksForGeeks\LeadersInAnArray\LeadersInAnArray\bin\Debug\net5.0\LeadersInAnArray.pdb
+G:\ProblemSolving\GeeksForGeeks\LeadersInAnArray\LeadersInAnArray\obj\Debug\net5.0\LeadersInAnArray.csproj.AssemblyReference.cache
+G:\ProblemSolving\GeeksForGeeks\LeadersInAnArray\LeadersInAnArray\obj\Debug\net5.0\LeadersInAnArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProblemSolving\GeeksForGeeks\LeadersInAnArray\LeadersInAnArray\obj\Debug\net5.0\LeadersInAnArray.AssemblyInfoInputs.cache
+G:\ProblemSolving\GeeksForGeeks\LeadersInAnArray\LeadersInAnArray\obj\Debug\net5.0\LeadersInAnArray.AssemblyInfo.cs
+G:\ProblemSolving\GeeksForGeeks\LeadersInAnArray\LeadersInAnArray\obj\Debug\net5.0\LeadersInAnArray.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\GeeksForGeeks\LeadersInAnArray\LeadersInAnArray\obj\Debug\net5.0\LeadersInAnArray.dll
+G:\ProblemSolving\GeeksForGeeks\LeadersInAnArray\LeadersInAnArray\obj\Debug\net5.0\refint\LeadersInAnArray.dll
+G:\ProblemSolving\GeeksForGeeks\LeadersInAnArray\LeadersInAnArray\obj\Debug\net5.0\LeadersInAnArray.pdb
+G:\ProblemSolving\GeeksForGeeks\LeadersInAnArray\LeadersInAnArray\obj\Debug\net5.0\LeadersInAnArray.genruntimeconfig.cache
+G:\ProblemSolving\GeeksForGeeks\LeadersInAnArray\LeadersInAnArray\obj\Debug\net5.0\ref\LeadersInAnArray.dll
