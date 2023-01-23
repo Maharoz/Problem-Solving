@@ -1,48 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
+﻿
+//https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?page=1&difficulty[]=0&sortBy=submissions
 
-namespace LeadersInAnArray
+int[] array = { 63, 70, 80, 33, 33, 47, 20 };
+leaders(array, array.Length);
+ static int[] leaders(int[] arr, int N)
 {
-    internal class Program
+    List<int> list = new List<int>();
+    int max = arr[0];
+
+    for (int i = 0; i < arr.Length - 2; i++)
     {
 
-        //https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?page=1&difficulty[]=0&category[]=Arrays&sortBy=submissions
-        static void Main(string[] args)
+        if (arr[i + 1] - arr[i] > 0)
         {
-            int n = 6;
-            int[] input = { 16, 17, 4, 3, 5, 2 };
-            int[] output = new int[input.Length];
-            int x = 0;
-
-            for(int i = 0; i < n; i++)
-            {
-                for(int j = i + 1; j <= input.Length-1; j++)
-                {
-                    if(input[i] < input[j])
-                    {
-                        break;
-                    }
-                    else if(j== input.Length-1)
-                    {
-                        output[x] = input[i];
-                        x++;
-                    }
-                }
-            }
-            output[x] = input[input.Length - 1];
-
-            int[] outputNew = new int[x];
-            outputNew = output;
-
-            for (int i = 0; i < output.Length; i++)
-            {
-               if (output[i] != 0)
-              {
-                    outputNew[i] = output[i];
-                    Console.WriteLine(outputNew[i]);
-               }
-                
-            }
+            list.Add(arr[i + 1]);
         }
     }
+    list.Add(arr[arr.Length - 1]);
+    return list.ToArray();
 }
