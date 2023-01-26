@@ -1,0 +1,15 @@
+G:\ProblemSolving\Solved Problems 2023\count-the-number-of-possible-triangle\count-the-number-of-possible-triangle\bin\Debug\net6.0\count-the-number-of-possible-triangle.exe
+G:\ProblemSolving\Solved Problems 2023\count-the-number-of-possible-triangle\count-the-number-of-possible-triangle\bin\Debug\net6.0\count-the-number-of-possible-triangle.deps.json
+G:\ProblemSolving\Solved Problems 2023\count-the-number-of-possible-triangle\count-the-number-of-possible-triangle\bin\Debug\net6.0\count-the-number-of-possible-triangle.runtimeconfig.json
+G:\ProblemSolving\Solved Problems 2023\count-the-number-of-possible-triangle\count-the-number-of-possible-triangle\bin\Debug\net6.0\count-the-number-of-possible-triangle.dll
+G:\ProblemSolving\Solved Problems 2023\count-the-number-of-possible-triangle\count-the-number-of-possible-triangle\bin\Debug\net6.0\count-the-number-of-possible-triangle.pdb
+G:\ProblemSolving\Solved Problems 2023\count-the-number-of-possible-triangle\count-the-number-of-possible-triangle\obj\Debug\net6.0\count-the-number-of-possible-triangle.csproj.AssemblyReference.cache
+G:\ProblemSolving\Solved Problems 2023\count-the-number-of-possible-triangle\count-the-number-of-possible-triangle\obj\Debug\net6.0\count-the-number-of-possible-triangle.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProblemSolving\Solved Problems 2023\count-the-number-of-possible-triangle\count-the-number-of-possible-triangle\obj\Debug\net6.0\count-the-number-of-possible-triangle.AssemblyInfoInputs.cache
+G:\ProblemSolving\Solved Problems 2023\count-the-number-of-possible-triangle\count-the-number-of-possible-triangle\obj\Debug\net6.0\count-the-number-of-possible-triangle.AssemblyInfo.cs
+G:\ProblemSolving\Solved Problems 2023\count-the-number-of-possible-triangle\count-the-number-of-possible-triangle\obj\Debug\net6.0\count-the-number-of-possible-triangle.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\Solved Problems 2023\count-the-number-of-possible-triangle\count-the-number-of-possible-triangle\obj\Debug\net6.0\count-the-number-of-possible-triangle.dll
+G:\ProblemSolving\Solved Problems 2023\count-the-number-of-possible-triangle\count-the-number-of-possible-triangle\obj\Debug\net6.0\refint\count-the-number-of-possible-triangle.dll
+G:\ProblemSolving\Solved Problems 2023\count-the-number-of-possible-triangle\count-the-number-of-possible-triangle\obj\Debug\net6.0\count-the-number-of-possible-triangle.pdb
+G:\ProblemSolving\Solved Problems 2023\count-the-number-of-possible-triangle\count-the-number-of-possible-triangle\obj\Debug\net6.0\count-the-number-of-possible-triangle.genruntimeconfig.cache
+G:\ProblemSolving\Solved Problems 2023\count-the-number-of-possible-triangle\count-the-number-of-possible-triangle\obj\Debug\net6.0\ref\count-the-number-of-possible-triangle.dll
