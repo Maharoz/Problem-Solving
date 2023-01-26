@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reorder-the array-according-to-given-index", "reorder-the array-according-to-given-index\reorder-the array-according-to-given-index.csproj", "{5BFCFDC9-F899-4C53-BA32-DDD0EB228629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BFCFDC9-F899-4C53-BA32-DDD0EB228629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFCFDC9-F899-4C53-BA32-DDD0EB228629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFCFDC9-F899-4C53-BA32-DDD0EB228629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFCFDC9-F899-4C53-BA32-DDD0EB228629}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8DA9CBA-386D-41A7-A552-BD194037636C}
+	EndGlobalSection
+EndGlobal
