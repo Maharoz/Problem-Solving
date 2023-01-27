@@ -1,0 +1,15 @@
+G:\ProblemSolving\Solved Problems 2023\counting-pair-of-given-sum\counting-pair-of-given-sum\bin\Debug\net6.0\counting-pair-of-given-sum.exe
+G:\ProblemSolving\Solved Problems 2023\counting-pair-of-given-sum\counting-pair-of-given-sum\bin\Debug\net6.0\counting-pair-of-given-sum.deps.json
+G:\ProblemSolving\Solved Problems 2023\counting-pair-of-given-sum\counting-pair-of-given-sum\bin\Debug\net6.0\counting-pair-of-given-sum.runtimeconfig.json
+G:\ProblemSolving\Solved Problems 2023\counting-pair-of-given-sum\counting-pair-of-given-sum\bin\Debug\net6.0\counting-pair-of-given-sum.dll
+G:\ProblemSolving\Solved Problems 2023\counting-pair-of-given-sum\counting-pair-of-given-sum\bin\Debug\net6.0\counting-pair-of-given-sum.pdb
+G:\ProblemSolving\Solved Problems 2023\counting-pair-of-given-sum\counting-pair-of-given-sum\obj\Debug\net6.0\counting-pair-of-given-sum.csproj.AssemblyReference.cache
+G:\ProblemSolving\Solved Problems 2023\counting-pair-of-given-sum\counting-pair-of-given-sum\obj\Debug\net6.0\counting-pair-of-given-sum.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProblemSolving\Solved Problems 2023\counting-pair-of-given-sum\counting-pair-of-given-sum\obj\Debug\net6.0\counting-pair-of-given-sum.AssemblyInfoInputs.cache
+G:\ProblemSolving\Solved Problems 2023\counting-pair-of-given-sum\counting-pair-of-given-sum\obj\Debug\net6.0\counting-pair-of-given-sum.AssemblyInfo.cs
+G:\ProblemSolving\Solved Problems 2023\counting-pair-of-given-sum\counting-pair-of-given-sum\obj\Debug\net6.0\counting-pair-of-given-sum.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\Solved Problems 2023\counting-pair-of-given-sum\counting-pair-of-given-sum\obj\Debug\net6.0\counting-pair-of-given-sum.dll
+G:\ProblemSolving\Solved Problems 2023\counting-pair-of-given-sum\counting-pair-of-given-sum\obj\Debug\net6.0\refint\counting-pair-of-given-sum.dll
+G:\ProblemSolving\Solved Problems 2023\counting-pair-of-given-sum\counting-pair-of-given-sum\obj\Debug\net6.0\counting-pair-of-given-sum.pdb
+G:\ProblemSolving\Solved Problems 2023\counting-pair-of-given-sum\counting-pair-of-given-sum\obj\Debug\net6.0\counting-pair-of-given-sum.genruntimeconfig.cache
+G:\ProblemSolving\Solved Problems 2023\counting-pair-of-given-sum\counting-pair-of-given-sum\obj\Debug\net6.0\ref\counting-pair-of-given-sum.dll
