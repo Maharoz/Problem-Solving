@@ -1,0 +1,15 @@
+G:\ProblemSolving\Recursion\RecursionEasyProblems\PrintOneToNWithoutLoop\bin\Debug\net6.0\RecursionEasyProblem.exe
+G:\ProblemSolving\Recursion\RecursionEasyProblems\PrintOneToNWithoutLoop\bin\Debug\net6.0\RecursionEasyProblem.deps.json
+G:\ProblemSolving\Recursion\RecursionEasyProblems\PrintOneToNWithoutLoop\bin\Debug\net6.0\RecursionEasyProblem.runtimeconfig.json
+G:\ProblemSolving\Recursion\RecursionEasyProblems\PrintOneToNWithoutLoop\bin\Debug\net6.0\RecursionEasyProblem.dll
+G:\ProblemSolving\Recursion\RecursionEasyProblems\PrintOneToNWithoutLoop\bin\Debug\net6.0\RecursionEasyProblem.pdb
+G:\ProblemSolving\Recursion\RecursionEasyProblems\PrintOneToNWithoutLoop\obj\Debug\net6.0\RecursionEasyProblem.csproj.AssemblyReference.cache
+G:\ProblemSolving\Recursion\RecursionEasyProblems\PrintOneToNWithoutLoop\obj\Debug\net6.0\RecursionEasyProblem.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProblemSolving\Recursion\RecursionEasyProblems\PrintOneToNWithoutLoop\obj\Debug\net6.0\RecursionEasyProblem.AssemblyInfoInputs.cache
+G:\ProblemSolving\Recursion\RecursionEasyProblems\PrintOneToNWithoutLoop\obj\Debug\net6.0\RecursionEasyProblem.AssemblyInfo.cs
+G:\ProblemSolving\Recursion\RecursionEasyProblems\PrintOneToNWithoutLoop\obj\Debug\net6.0\RecursionEasyProblem.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\Recursion\RecursionEasyProblems\PrintOneToNWithoutLoop\obj\Debug\net6.0\RecursionEasyProblem.dll
+G:\ProblemSolving\Recursion\RecursionEasyProblems\PrintOneToNWithoutLoop\obj\Debug\net6.0\refint\RecursionEasyProblem.dll
+G:\ProblemSolving\Recursion\RecursionEasyProblems\PrintOneToNWithoutLoop\obj\Debug\net6.0\RecursionEasyProblem.pdb
+G:\ProblemSolving\Recursion\RecursionEasyProblems\PrintOneToNWithoutLoop\obj\Debug\net6.0\RecursionEasyProblem.genruntimeconfig.cache
+G:\ProblemSolving\Recursion\RecursionEasyProblems\PrintOneToNWithoutLoop\obj\Debug\net6.0\ref\RecursionEasyProblem.dll

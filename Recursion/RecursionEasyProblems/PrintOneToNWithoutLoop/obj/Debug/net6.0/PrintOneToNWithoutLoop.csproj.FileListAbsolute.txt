@@ -1,0 +1,15 @@
+G:\ProblemSolving\Recursion\PrintOneToNWithoutLoop\PrintOneToNWithoutLoop\bin\Debug\net6.0\PrintOneToNWithoutLoop.exe
+G:\ProblemSolving\Recursion\PrintOneToNWithoutLoop\PrintOneToNWithoutLoop\bin\Debug\net6.0\PrintOneToNWithoutLoop.deps.json
+G:\ProblemSolving\Recursion\PrintOneToNWithoutLoop\PrintOneToNWithoutLoop\bin\Debug\net6.0\PrintOneToNWithoutLoop.runtimeconfig.json
+G:\ProblemSolving\Recursion\PrintOneToNWithoutLoop\PrintOneToNWithoutLoop\bin\Debug\net6.0\PrintOneToNWithoutLoop.dll
+G:\ProblemSolving\Recursion\PrintOneToNWithoutLoop\PrintOneToNWithoutLoop\bin\Debug\net6.0\PrintOneToNWithoutLoop.pdb
+G:\ProblemSolving\Recursion\PrintOneToNWithoutLoop\PrintOneToNWithoutLoop\obj\Debug\net6.0\PrintOneToNWithoutLoop.csproj.AssemblyReference.cache
+G:\ProblemSolving\Recursion\PrintOneToNWithoutLoop\PrintOneToNWithoutLoop\obj\Debug\net6.0\PrintOneToNWithoutLoop.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProblemSolving\Recursion\PrintOneToNWithoutLoop\PrintOneToNWithoutLoop\obj\Debug\net6.0\PrintOneToNWithoutLoop.AssemblyInfoInputs.cache
+G:\ProblemSolving\Recursion\PrintOneToNWithoutLoop\PrintOneToNWithoutLoop\obj\Debug\net6.0\PrintOneToNWithoutLoop.AssemblyInfo.cs
+G:\ProblemSolving\Recursion\PrintOneToNWithoutLoop\PrintOneToNWithoutLoop\obj\Debug\net6.0\PrintOneToNWithoutLoop.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\Recursion\PrintOneToNWithoutLoop\PrintOneToNWithoutLoop\obj\Debug\net6.0\PrintOneToNWithoutLoop.dll
+G:\ProblemSolving\Recursion\PrintOneToNWithoutLoop\PrintOneToNWithoutLoop\obj\Debug\net6.0\refint\PrintOneToNWithoutLoop.dll
+G:\ProblemSolving\Recursion\PrintOneToNWithoutLoop\PrintOneToNWithoutLoop\obj\Debug\net6.0\PrintOneToNWithoutLoop.pdb
+G:\ProblemSolving\Recursion\PrintOneToNWithoutLoop\PrintOneToNWithoutLoop\obj\Debug\net6.0\PrintOneToNWithoutLoop.genruntimeconfig.cache
+G:\ProblemSolving\Recursion\PrintOneToNWithoutLoop\PrintOneToNWithoutLoop\obj\Debug\net6.0\ref\PrintOneToNWithoutLoop.dll
