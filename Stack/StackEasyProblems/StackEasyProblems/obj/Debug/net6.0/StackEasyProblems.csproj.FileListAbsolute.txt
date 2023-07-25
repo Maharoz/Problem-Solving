@@ -1,0 +1,15 @@
+G:\ProblemSolving\Stack\StackEasyProblems\StackEasyProblems\bin\Debug\net6.0\StackEasyProblems.exe
+G:\ProblemSolving\Stack\StackEasyProblems\StackEasyProblems\bin\Debug\net6.0\StackEasyProblems.deps.json
+G:\ProblemSolving\Stack\StackEasyProblems\StackEasyProblems\bin\Debug\net6.0\StackEasyProblems.runtimeconfig.json
+G:\ProblemSolving\Stack\StackEasyProblems\StackEasyProblems\bin\Debug\net6.0\StackEasyProblems.dll
+G:\ProblemSolving\Stack\StackEasyProblems\StackEasyProblems\bin\Debug\net6.0\StackEasyProblems.pdb
+G:\ProblemSolving\Stack\StackEasyProblems\StackEasyProblems\obj\Debug\net6.0\StackEasyProblems.csproj.AssemblyReference.cache
+G:\ProblemSolving\Stack\StackEasyProblems\StackEasyProblems\obj\Debug\net6.0\StackEasyProblems.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProblemSolving\Stack\StackEasyProblems\StackEasyProblems\obj\Debug\net6.0\StackEasyProblems.AssemblyInfoInputs.cache
+G:\ProblemSolving\Stack\StackEasyProblems\StackEasyProblems\obj\Debug\net6.0\StackEasyProblems.AssemblyInfo.cs
+G:\ProblemSolving\Stack\StackEasyProblems\StackEasyProblems\obj\Debug\net6.0\StackEasyProblems.csproj.CoreCompileInputs.cache
+G:\ProblemSolving\Stack\StackEasyProblems\StackEasyProblems\obj\Debug\net6.0\StackEasyProblems.dll
+G:\ProblemSolving\Stack\StackEasyProblems\StackEasyProblems\obj\Debug\net6.0\refint\StackEasyProblems.dll
+G:\ProblemSolving\Stack\StackEasyProblems\StackEasyProblems\obj\Debug\net6.0\StackEasyProblems.pdb
+G:\ProblemSolving\Stack\StackEasyProblems\StackEasyProblems\obj\Debug\net6.0\StackEasyProblems.genruntimeconfig.cache
+G:\ProblemSolving\Stack\StackEasyProblems\StackEasyProblems\obj\Debug\net6.0\ref\StackEasyProblems.dll
