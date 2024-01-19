@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SubArrayWithGivenSum/1.0.0": {
+        "runtime": {
+          "SubArrayWithGivenSum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SubArrayWithGivenSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
