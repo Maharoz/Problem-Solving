@@ -1,0 +1,15 @@
+H:\Problem-Solving\Backtracking\Subset\Subset\obj\Debug\net6.0\Subset.GeneratedMSBuildEditorConfig.editorconfig
+H:\Problem-Solving\Backtracking\Subset\Subset\obj\Debug\net6.0\Subset.AssemblyInfoInputs.cache
+H:\Problem-Solving\Backtracking\Subset\Subset\obj\Debug\net6.0\Subset.AssemblyInfo.cs
+H:\Problem-Solving\Backtracking\Subset\Subset\obj\Debug\net6.0\Subset.csproj.CoreCompileInputs.cache
+H:\Problem-Solving\Backtracking\Subset\Subset\obj\Debug\net6.0\Subset.sourcelink.json
+H:\Problem-Solving\Backtracking\Subset\Subset\bin\Debug\net6.0\Subset.exe
+H:\Problem-Solving\Backtracking\Subset\Subset\bin\Debug\net6.0\Subset.deps.json
+H:\Problem-Solving\Backtracking\Subset\Subset\bin\Debug\net6.0\Subset.runtimeconfig.json
+H:\Problem-Solving\Backtracking\Subset\Subset\bin\Debug\net6.0\Subset.dll
+H:\Problem-Solving\Backtracking\Subset\Subset\bin\Debug\net6.0\Subset.pdb
+H:\Problem-Solving\Backtracking\Subset\Subset\obj\Debug\net6.0\Subset.dll
+H:\Problem-Solving\Backtracking\Subset\Subset\obj\Debug\net6.0\refint\Subset.dll
+H:\Problem-Solving\Backtracking\Subset\Subset\obj\Debug\net6.0\Subset.pdb
+H:\Problem-Solving\Backtracking\Subset\Subset\obj\Debug\net6.0\Subset.genruntimeconfig.cache
+H:\Problem-Solving\Backtracking\Subset\Subset\obj\Debug\net6.0\ref\Subset.dll
